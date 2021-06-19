@@ -12,7 +12,7 @@
 
 # Dockerfile for OpenFermion, Cirq, and select plugins.
 
-FROM ubuntu
+FROM ubuntu:groovy-20210614
 
 USER root
 
