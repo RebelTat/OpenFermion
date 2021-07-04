@@ -12,7 +12,7 @@
 
 # Dockerfile for OpenFermion, Cirq, and select plugins.
 
-FROM ubuntu
+FROM ubuntu:20.10
 
 USER root
 
